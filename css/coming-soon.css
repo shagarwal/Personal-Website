@@ -168,15 +168,14 @@ body {
 }
 
 .btn-secondary {
-  background-image: url("https://github.com/shagarwal/Personal-Website/blob/master/assets/Primary%20Sloan%20Headshot.jpg");
-  /*background-color: #cd9557;
-  border-color: #cd9557;*/
+  background-color: #cd9557;
+  border-color: #cd9557;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
   background-image: url("https://github.com/shagarwal/Personal-Website/blob/master/assets/Primary%20Sloan%20Headshot.jpg");
-  /*background-color: #ba7c37 !important;
-  border-color: #ba7c37 !important;*/
+  background-color: #ba7c37 !important;
+  border-color: #ba7c37 !important;
 }
 
 .input {
