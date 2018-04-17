@@ -28,7 +28,7 @@ body {
   min-height: 35rem;
   width: 100%;
   background-image: url("assets/Primary%20Sloan%20Headshot.jpg"); 
-  /*background-color: #cd9557;*/
+  /*background-color: #cd955777;*/
   opacity: 0.75;
   z-index: -1;
 }
